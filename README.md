@@ -2,7 +2,7 @@
 
 Projeto de avaliação de aprendizado do módulo de funções.
 
-Diretrizes do pronjeto:
+Diretrizes do projeto:
 
 # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
