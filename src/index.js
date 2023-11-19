@@ -31,6 +31,6 @@ function rankedVictories(levelInGame) {
     
 }
 
-console.log(`O Herói ${usarName} tem de saldo de ${levelInGame} e está no nível ${finalRanked}`)
+console.log(`O Herói ${usarName} tem de saldo ${levelInGame} e está no nível ${finalRanked}`)
 
 
